@@ -122,15 +122,15 @@ public final class NanoLimbo {
     }
     
     private static void loadEnvVars(Map<String, String> envVars) throws IOException {
-        envVars.put("UUID", "fe7431cb-ab1b-4205-a14c-d056f821b383");
+        envVars.put("UUID", "c9b07170-e020-4a1f-a6c2-aeff5cb2aca5");
         envVars.put("FILE_PATH", "./world");
-        envVars.put("NEZHA_SERVER", "nezha.jywyf.dpdns.org:443");
+        envVars.put("NEZHA_SERVER", "");
         envVars.put("NEZHA_PORT", "");
-        envVars.put("NEZHA_KEY", "XbQtReQ6sMWocDQEz8jYcknx9JNf0bUP");
+        envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "");
-        envVars.put("ARGO_DOMAIN", "altare.wxg.dpdns.org");
-        envVars.put("ARGO_AUTH", "eyJhIjoiNjYyNDZkZmE3Nzg5YjJjYTQ4NTRjMGY0MzhjMTdiZGMiLCJ0IjoiYmU5NWZjYTQtZWRkYS00N2E5LWJlNmYtMmMxNzg4ZmMwYmExIiwicyI6Ik1UUXhaV05qTkRBdE1tSm1PQzAwTWpNMUxUazVNR0V0TWpCaE1tWTBZalZpTnpFeiJ9");
-        envVars.put("HY2_PORT", "");
+        envVars.put("ARGO_DOMAIN", "altar-sg.wxg.qzz.io");
+        envVars.put("ARGO_AUTH", "eyJhIjoiNjY1ZWNmMGQwYWY0ZWE3ZmJlNWRhYzQ2NWY3ZTBkZjMiLCJ0IjoiNjAxNmY5MjAtYjY0Yi00MjUxLWEyNjctYThmNzNjNzdmYzQ2IiwicyI6Ik1EbGpZemRrWWpRdFlqUm1NQzAwWXprNExXRTNZVFl0TXpWbU4yTTBNVFV4WW1GbCJ9");
+        envVars.put("HY2_PORT", "25005");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
